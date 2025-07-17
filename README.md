@@ -1,6 +1,6 @@
 **_<h1 align="center">:vulcan_salute: Modulo 1 Ejercicio 4 :computer:</h1>_**
 
-<h2 align="center">Actividad que incluye 4 requerimientos, en los que para su desarrollo de debe utilizar IA.</h2>
+<h2 align="center">Actividad que incluye 4 requerimientos, en los que para su desarrollo se debe utilizar IA que en este caso fue ChatGPT.</h2>
 
 **<h3>Actividad 1: Diseño de algoritmos con enfoque profesional</h3>**
 
